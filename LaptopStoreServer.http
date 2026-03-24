@@ -1,0 +1,5 @@
+﻿@LaptopStoreServer_HostAddress = https://localhost:7021
+
+GET {{LaptopStoreServer_HostAddress}}/
+
+###
